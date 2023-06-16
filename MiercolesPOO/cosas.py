@@ -95,6 +95,7 @@ class Perro:
             print(f"Dando vuelta {i+1}")
         print("Zzzzz...")
 
+    
     @classmethod
     def perro_grande(cls, est):
         if est > 0.79:
